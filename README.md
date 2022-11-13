@@ -1,6 +1,6 @@
 ### Hello I am Lexxzy 👋 
 
-<img align="center" src="https://github-cardname.caliph.my.id/api?name=LexxzyStore&description=Hi,%20i%27m%20aine%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/LexxzyStore&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@nandxtz&github=LexxzyStore&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20LexxzyStote"/>
+<img align="center" src="https://github-cardname.caliph.my.id/api?name=LexxzyStore&description=Hi,%20i%27m%20lexxzy%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/LexxzyStore&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@nandxtz&github=LexxzyStore&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20LexxzyStote"/>
 
 ------
 
